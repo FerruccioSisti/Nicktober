@@ -116,13 +116,13 @@ const items: IRouletteItem[] = [{ 'id': 18, 'title': 'ITS A KNIFE', 'subtitle': 
 { 'id': 17, 'title': 'You lose a Nick power up', 'subtitle': '', 'image': nicklosepower }];
 
 
-const prizes: IRouletteItem[] = [{ 'id': 0, 'title': '1 Nickhalfer', 'subtitle': '', 'image': nickhalfer },
-{ 'id': 1, 'title': '1 Nickcopy', 'subtitle': '', 'image': nickcopy },
-{ 'id': 2, 'title': '1 Nickdoubler', 'subtitle': '', 'image': nickdoubler }, 
+const prizes: IRouletteItem[] = [{ 'id': 0, 'title': 'Gain 1 Nickhalfer', 'subtitle': '', 'image': nickhalfer },
+{ 'id': 1, 'title': 'Gain 1 Nickcopy', 'subtitle': '', 'image': nickcopy },
+{ 'id': 2, 'title': 'Gain 1 Nickdoubler', 'subtitle': '', 'image': nickdoubler }, 
 { 'id': 3, 'title': 'Steal 2 NickBucks from the person below you', 'subtitle': '', 'image': nicksteal },
 { 'id': 4, 'title': 'Double your Nick Bucks', 'subtitle': '', 'image': ndouble },
 { 'id': 5, 'title': 'Copy the NickBucks of the person in first place', 'subtitle': '', 'image': copyfirst },
-{ 'id': 6, 'title': '2 extra Nick Spins this week', 'subtitle': '', 'image': extraspins },
+{ 'id': 6, 'title': 'Gain 2 extra Nick Spins this week', 'subtitle': '', 'image': extraspins },
 { 'id': 7, 'title': 'Copy a random persons NickBucks', 'subtitle': '', 'image': copyrand },
 { 'id': 8, 'title': 'Hit a FAT dab', 'subtitle': '', 'image': dab }, 
 { 'id': 9, 'title': 'Spin again!', 'subtitle': '', 'image': nickrollagain },
@@ -130,7 +130,7 @@ const prizes: IRouletteItem[] = [{ 'id': 0, 'title': '1 Nickhalfer', 'subtitle':
 { 'id': 11, 'title': 'Give a speech on a topic provided by Nick', 'subtitle': '', 'image': nickspeech },
 { 'id': 12, 'title': 'Donate one of your wheel spins to somebody random', 'subtitle': '', 'image': donatespin },
 { 'id': 13, 'title': 'Your NickBucks have been halved', 'subtitle': '', 'image': halfnickbucks },
-{ 'id': 14, 'title': 'You lose all NickBucks but 1', 'subtitle': '', 'image': loseall },
+{ 'id': 14, 'title': 'You lose all your NickBucks but 1', 'subtitle': '', 'image': loseall },
 { 'id': 15, 'title': 'Swap NickBanks with last place', 'subtitle': '', 'image': nickswap },
 { 'id': 16, 'title': 'You donate a NickBuck to one person', 'subtitle': '', 'image': donatecoin },
 { 'id': 17, 'title': 'You lose a Nick power up', 'subtitle': '', 'image': nicklosepower }];
